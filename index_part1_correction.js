@@ -1,7 +1,7 @@
 const Fighter = require("./src/Fighter.js");
 
 /** Create Heracles  */
-const heracles = new Fighter("🧔 Heracles", 20, 6);
+const heracles = new Fighter("🧔 Heracles", 20, 6,weapon,);
 
 /** Create the opponent  */
 const nemean = new Fighter("🦁 The Nemean Lion", 11, 13);
